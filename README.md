@@ -1,0 +1,1 @@
+This is a packet sniffer using scapy that I created for school. It sniffs on port 80 for packets for 10 seconds. It then goes through all of the packets sniffed and displays the HTTP layer of all packets that had one.
